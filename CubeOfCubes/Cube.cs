@@ -5,7 +5,7 @@ public class Cube
 {
     static Random r = new();
 
-    List<Cube> cubes;
+    List<Cube>? cubes;
 
     Color c;
 
